@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Donutgraphweb/static/css/main.73cc0440.css",
+    "main.js": "/Donutgraphweb/static/js/main.f600feca.js",
+    "index.html": "/Donutgraphweb/index.html",
+    "main.73cc0440.css.map": "/Donutgraphweb/static/css/main.73cc0440.css.map",
+    "main.f600feca.js.map": "/Donutgraphweb/static/js/main.f600feca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73cc0440.css",
+    "static/js/main.f600feca.js"
+  ]
+}
